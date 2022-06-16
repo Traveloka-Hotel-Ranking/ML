@@ -11,7 +11,7 @@ The source code of machine learning model's API of Traveloka Hotel Rangking in o
 - [Built Dataset](https://drive.google.com/drive/folders/10i0SEeXWurmCnWQNbzPTRwO0tC7C_ANn)
 
 # Model Building's Notebook
-[Model-Hotel Rangking.ipynb - Colaboratory (google.com)](https://colab.research.google.com/github/kelreeeeey/Traveloka-Hotel-Rangkin-ML/blob/main/Model-Hotel%20Rangking.ipynb)
+[Model-Hotel Rangking.ipynb - Colaboratory (google.com)](https://colab.research.google.com/github/kelreeeeey/Machine-Learning/blob/main/Model-Hotel%20Rangking.ipynb)
 
 # Dependencies
 - [Numpy](https://numpy.org/doc/stable/)
